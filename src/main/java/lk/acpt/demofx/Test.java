@@ -53,5 +53,7 @@ public class Test {
         map.put(2, 56.7);
 
         map.get(0);
+
+        System.out.println("Shaveeen...");
     }
 }
