@@ -15,8 +15,8 @@ public class HelloApplication extends Application {
         stage.setTitle("Login Panel");
         stage.setScene(scene);
         stage.show();
-        System.out.println("hello");
         System.out.println("hi....");
+        System.out.println("Hello");
     }
 
     public static void main(String[] args) {
